@@ -16,6 +16,19 @@ Check out my [personal webpage](https://cristianmeneses.io) where I share my res
 
 ## Active Projects
 
+### Big Data Playgrond
+I am learning and increasing my expertise on data analytics by creating a local stack for data exploration.
+On this stack I want to run
+- Hadoop
+- Hive Metastore
+- Spark
+- Jupyter notebooks
+
+In addition I want to add Apache Iceberg support.
+
+[GitHub Repository Link](https://github.com/menazord/big-data-playground)
+
+
 ### Oracle Certified Professional: Java SE 17 Developer
 I am currently preparing for [Oracle Certified Professional: Java SE 17 Developer](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829) certification 
 and I am writing lots of code samples so I can muscle exercise the lessons. 
